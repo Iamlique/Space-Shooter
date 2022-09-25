@@ -1,24 +1,16 @@
-# Exercise-02d-Menu-and-HUD
+# Project 02—2D Arcade Space Shooter
 
 Exercise for MSCH-C220
 
-A basic space-shooter arcade game, created in Godot.
+A 2D space shooter with only one level right now, and different obstacles and enemies. 
 
 ## Implementation
-
-Created using [Godot 3.5](https://godotengine.org/download)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
-
-The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hyperspace.font) and is freely available for personal use.
-
+Built using GIDOT
 ## References
-None
+Excercises from the previous assignments
 
 ## Future Development
-Advanced features?
+I will make 5 levels, with the last one being a giant boss. I will add powerups hidden in some asteroids, and I will have different modes. Endless and regular campagin.
 
-## Created by
+## Created by 
 Malique Blythe
